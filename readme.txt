@@ -1,3 +1,6 @@
 Hello
 I made changes.
-Partner: Dan PalmeR
+Partner: Dan Palmer
+Fixing stuff
+This might cause a merge conflict.
+
