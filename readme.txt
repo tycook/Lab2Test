@@ -1,3 +1,3 @@
 Hello
 I made changes.
-Partner: Dan Palmer
+Partner: Dan PalmeR
